@@ -1,0 +1,19 @@
+{
+  "params":
+          {
+            "local_server": "True",
+            "local_uri": "your-local-uri",
+            "fb_url": "https://www.facebook.com/Tarik'sBlogs",
+            "tw_url": "https://www.tweeter.com/Tarik'sBlogs",
+            "gh_url": "https://www.github.com/Tarik'sBlogs",
+            "blog_name": "Engineer's blogs",
+            "tag_line": "A blog liked by best developer",
+            "about_text": "This is a blog's website u can search blogs here",
+            "no_of_post": 3,
+            "admin_img": "admin.png",
+            "admin_user_id": "tarik3430@gmail.com",
+            "admin_password": "12345",
+            "upload_location": "F:\\porject\\blogging_website\\static\\img"
+          }
+
+}
